@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1628870799447' stop='1628870815290'>
+    <name>login page feature test</name>
+    <title>login page feature test</title>
+    <test-cases>
+        <test-case start='1628870799447' status='passed' stop='1628870801767'>
+            <name>should open the main url </name>
+            <title>should open the main url </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628870801767' status='passed' stop='1628870802677'>
+            <name>verify Login</name>
+            <title>verify Login</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bd0bf681-24ea-431a-a44e-ee08201b0ef3-attachment.png' type='image/png' size='603720'/>
+            </attachments>
+        </test-case>
+        <test-case start='1628870802678' status='passed' stop='1628870807875'>
+            <name>Search Item </name>
+            <title>Search Item </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4ef9feb4-b776-4b4e-af3c-1166f7f37d58-attachment.png' type='image/png' size='569623'/>
+            </attachments>
+        </test-case>
+        <test-case start='1628870807876' status='passed' stop='1628870810130'>
+            <name> select Item</name>
+            <title> select Item</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6ffbfaaf-33f3-4ef0-9ca9-c1ba7e02281f-attachment.png' type='image/png' size='309377'/>
+            </attachments>
+        </test-case>
+        <test-case start='1628870810132' status='passed' stop='1628870811490'>
+            <name>verify Item</name>
+            <title>verify Item</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='041ef517-c514-4073-9caa-d64d2b090e72-attachment.png' type='image/png' size='342523'/>
+            </attachments>
+        </test-case>
+        <test-case start='1628870811490' status='passed' stop='1628870811726'>
+            <name>Remove Item</name>
+            <title>Remove Item</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8bacc20a-444e-43bc-8f18-a5d1599cf32d-attachment.png' type='image/png' size='137849'/>
+            </attachments>
+        </test-case>
+        <test-case start='1628870811729' status='passed' stop='1628870815289'>
+            <name>LogOut</name>
+            <title>LogOut</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9afa8021-0d3d-4bbe-ac0f-957c14530251-attachment.png' type='image/png' size='142970'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
